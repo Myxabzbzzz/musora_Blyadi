@@ -113,7 +113,7 @@ fun pomenyashka(array: IntArray, i: Int, j: Int) {
 
             }
 
-            "3" -> {println("vvedi kolichestvo strok v stairse!")
+            "3" -> {println("vvedi kolichestvo strok v stai rse!")
 
 
 
