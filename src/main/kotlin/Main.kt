@@ -149,7 +149,7 @@ fun factorial() {
         println("pawel naxuy pishi normalno eban.")
     }
 
-    fun main(args: Array<String>) {
+    fun main() {
 
         var showMenu = true
         while (showMenu) {
@@ -294,15 +294,8 @@ fun factorial() {
                 showMenu = false
             }
         }
-        // Try adding program arguments via Run/Debug configuration.
-        // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-        println("Program arguments: ${args.joinToString()}")
-
-
     }
 }
-
-
 
 
 
